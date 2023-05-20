@@ -2,12 +2,13 @@
 Image Encryption by ElGamal Cryptosystem - a cryptographically secure transfer protocol
 
 The project consists of the following 6 files:
-• ImageEncryptionGui.m
-• ImageEncryptionGui.fig 
-• keyGen.m
-• imageProcess.m
-• imageProcessKey.m
-• imageProcessDec.m
+
+       • ImageEncryptionGui.m
+       • ImageEncryptionGui.fig 
+       • keyGen.m
+       • imageProcess.m
+       • imageProcessKey.m
+       • imageProcessDec.m
 
 The code to run our program is contained in the .m files while the .fig file represents the GUI for taking the images to be encrypted and storing the decrypted ones.
 To run
