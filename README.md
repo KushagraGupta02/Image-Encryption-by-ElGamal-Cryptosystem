@@ -17,5 +17,6 @@ To run
          The gui opens up, and click on the button for selecting the message.
          Further, click on the button to display the key, mask and received message.
      
-Since the received and input images are almost exactly the same, therefore our algorithm yields the correct result.
-     
+Since the received and input images are almost exactly the same, therefore our program and the algorithm yields the correct result.
+
+The security of the algorithm is guaranteed by the unsolvability of the discrete logarithm problem.
